@@ -1,0 +1,33 @@
+```yaml
+cff-version: 1.2.0
+
+message: "If you use this software, please cite it as below."
+
+title: "Economic Analysis of Germany and Neighboring Countries"
+
+type: software
+
+authors:
+  - family-names: Hussien
+    given-names: Nebil
+
+version: 1.0.0
+
+date-released: 2026-05-17
+
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20261847
+
+repository-code: "https://gitup.uni-potsdam.de/hussien/economic-indicator-of-germany-and-neighboring-countries-rse-project_1"
+
+keywords:
+  - economics
+  - germany
+  - data-analysis
+  - clustering
+  - machine-learning
+  - k-means
+
+license: MIT
+```
